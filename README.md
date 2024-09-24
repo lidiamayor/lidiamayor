@@ -22,7 +22,7 @@ I'm always excited to collaborate on new projects or explore opportunities, so f
 
 ### Languages
 
-<div align="center"><img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg" alt="Python"/>
+<div align="left"><img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg" alt="Python"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg" alt="MySQL"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/matlab.svg" alt="MATLAB"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/cpp.svg" alt="C++"/>
@@ -39,7 +39,7 @@ I'm always excited to collaborate on new projects or explore opportunities, so f
 </div>
 
 ### Visualization
-<div align="center">
+<div align="right">
   <img width="32px" src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" alt="Power BI"/>
   <img width="32px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau"/>
   <img width="32px" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit"/>
