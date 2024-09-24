@@ -23,14 +23,6 @@ I'm a Robotics Engineer with a passion for data analysis. I'm completing a bootc
 - **Data Analysis**: <img width ='20px' src ='https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png'> <img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/numpy-1.svg'> <img width ='36px' src ='https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png'> <img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/seaborn-1.svg'>
 - **Visualization**: <img width ='32px' src ='https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp'> <img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/tableau-software.svg'> <img width ='32px' src ='https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png'>
 
-## 🌟 Projects
-
-Here are some of my recent projects:
-
-- **[Delivery Data Analysis](https://github.com/lidiamayor/delivery-study-sql-minproject)**: A project analyzing delivery company data using SQL and Python.
-- **[Streamlit app for Wine Consumption Analysis](https://github.com/lidiamayor/marketing-study-project-streamlit)**: An interactive Stremlit app for a marketing analysis for a wine company.
-- **[Wine Consumption Analysis](https://github.com/lidiamayor/marketing-study-project)**: A marketing analysis for a wine company.
-
 ## 📫 Let's Connect
 <div align="center">
 <a href = 'https://www.linkedin.com/in/lidia-mayor-sanjuan-3b350930b/'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -38,6 +30,12 @@ Here are some of my recent projects:
 </div>
 
 I'm always excited to collaborate on new projects or explore opportunities, so feel free to reach out!
+
+## 🌟 Projects
+
+- **[Delivery Data Analysis](https://github.com/lidiamayor/delivery-study-sql-minproject)**: A project analyzing delivery company data using SQL and Python.
+- **[Streamlit app for Wine Consumption Analysis](https://github.com/lidiamayor/marketing-study-project-streamlit)**: An interactive Stremlit app for a marketing analysis for a wine company.
+- **[Wine Consumption Analysis](https://github.com/lidiamayor/marketing-study-project)**: A marketing analysis for a wine company.
 
 ## ⚙️ My stats
 
