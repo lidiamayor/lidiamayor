@@ -21,7 +21,7 @@ I'm always excited to collaborate on new projects or explore opportunities, so f
 ## 🛠️ Technologies & Tools
 
 ### Languages
-<p>
+
 <div align="center">
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg" alt="Python"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg" alt="MySQL"/>
@@ -29,7 +29,7 @@ I'm always excited to collaborate on new projects or explore opportunities, so f
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/cpp.svg" alt="C++"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/c.svg" alt="C"/>
 </div>
-</p>
+
 
 ### Data Analysis
 <p>
