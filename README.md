@@ -21,7 +21,7 @@ I'm a Robotics Engineer with a passion for data analysis. I'm completing a bootc
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, SQL, MATLAB, C++
+- **Languages**: <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg'>, SQL, MATLAB, C++
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Database**: MySQL
 - **Visualization**: Power BI, Tableau
@@ -48,8 +48,9 @@ Here are some of my recent projects:
 ---
 
 ## 📫 Let's Connect
-
-- LinkedIn: [Lidia Mayor](https://www.linkedin.com/in/lidia-mayor-sanjuan-3b350930b/)
-- GitHub: [github.com/username](https://github.com/lidiamayor)
+<div align="center">
+<a href = 'https://www.linkedin.com/in/lidia-mayor-sanjuan-3b350930b/'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/lidiamayor'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+</div>
 
 I'm always excited to collaborate on new projects or explore opportunities, so feel free to reach out!
