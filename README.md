@@ -21,11 +21,7 @@ I'm a Robotics Engineer with a passion for data analysis. I'm completing a bootc
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg'> 
-<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg'>
-<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/matlab.svg'>
-<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/cpp.svg'>
-<img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/c.svg'>
+- **Languages**: <img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg'><img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg'><img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/matlab.svg'><img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/cpp.svg'><img width ='32px' src ='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/c.svg'>
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Database**: MySQL
 - **Visualization**: Power BI, Tableau
