@@ -45,5 +45,5 @@ I'm always excited to collaborate on new projects or explore opportunities, so f
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=lidiamayor&show_icons=true&theme=transparent&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lidiamayor&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lidiamayor&layout=compact&langs_count=8&card_width=320" />
 </a>
