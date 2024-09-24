@@ -46,28 +46,26 @@ I'm always excited to collaborate on new projects or explore opportunities, so f
 
 ## 🛠️ Technologies & Tools
 
-<div>
+<div align="center">
+  
   <h3>Languages</h3>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg" alt="Python"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg" alt="MySQL"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/matlab.svg" alt="MATLAB"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/cpp.svg" alt="C++"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/c.svg" alt="C"/>
-</div>
-
-<div>
+  
   <h3>Data Analysis</h3>
   <img width="20px" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="Pandas"/>
   <img width="32px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy"/>
   <img width="36px" src="https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png" alt="Matplotlib"/>
   <img width="32px" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn"/>
-</div>
-
-<div>
+  
   <h3>Visualization</h3>
   <img width="32px" src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" alt="Power BI"/>
   <img width="32px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau"/>
   <img width="32px" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit"/>
+  
 </div>
 
 
