@@ -30,8 +30,9 @@ I'm always excited to collaborate on new projects or explore opportunities, so f
 </div>
 
 
-### Data Analysis
+
 <div align="center">
+  <h2>Data Analysis</h2>
   <img width="20px" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="Pandas"/>
   <img width="32px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy"/>
   <img width="36px" src="https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png" alt="Matplotlib"/>
