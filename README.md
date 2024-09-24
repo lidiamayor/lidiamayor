@@ -22,16 +22,18 @@ I'm always excited to collaborate on new projects or explore opportunities, so f
 
 ### Languages
 <p>
+<div align="center">
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/python.svg" alt="Python"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/mysql.svg" alt="MySQL"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/matlab.svg" alt="MATLAB"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/cpp.svg" alt="C++"/>
   <img width="32px" src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/c.svg" alt="C"/>
+</div>
 </p>
 
 ### Data Analysis
 <p>
-  <img width="32px" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="Pandas"/>
+  <img width="20px" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="Pandas"/>
   <img width="32px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy"/>
   <img width="36px" src="https://pydata.org/wp-content/uploads/2016/07/matplotlib-logo-300.png" alt="Matplotlib"/>
   <img width="32px" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn"/>
