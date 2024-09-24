@@ -27,21 +27,13 @@ I'm a Robotics Engineer with a passion for data analysis. I'm completing a bootc
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced SQL for complex queries and data manipulation.
-- Machine learning algorithms to build predictive models.
-- Streamlit for creating interactive web apps.
-
----
-
 ## 🌟 Projects
 
 Here are some of my recent projects:
 
-- **[Delivery Data Analysis](https://github.com/lidiamayor/delivery-study-sql-minproject)**: A project analyzing delivery company data using SQL and Python for better business insights.
-- **[Streamlit app for Wine Consumption Analysis](https://github.com/lidiamayor/marketing-study-project-streamlit)**: An interactive Stremlit app for a marketing analysis to understand consumer behavior for a wine producer.
-- **[Wine Consumption Analysis](https://github.com/lidiamayor/marketing-study-project)**: A marketing analysis to understand consumer behavior for a wine producer.
+- **[Delivery Data Analysis](https://github.com/lidiamayor/delivery-study-sql-minproject)**: A project analyzing delivery company data using SQL and Python.
+- **[Streamlit app for Wine Consumption Analysis](https://github.com/lidiamayor/marketing-study-project-streamlit)**: An interactive Stremlit app for a marketing analysis for a wine company.
+- **[Wine Consumption Analysis](https://github.com/lidiamayor/marketing-study-project)**: A marketing analysis for a wine company.
 
 ---
 
@@ -52,3 +44,12 @@ Here are some of my recent projects:
 </div>
 
 I'm always excited to collaborate on new projects or explore opportunities, so feel free to reach out!
+
+## ⚙️ My stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=lidiamayor&show_icons=true&theme=transparent&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lidiamayor&layout=compact&langs_count=8&card_width=320" />
+</a>
